@@ -1,0 +1,24 @@
+
+\section{Related Work}
+
+In the following, we review related work on the computational design of facade layouts and generative adversarial networks.
+
+\paragraph*{Computational facade layouts.}
+Rule-based procedural modeling can be used to model facades and mass models~\cite{Wonka:2003:IA,Mueller:2006:PMB,Schwarz:2015:APM}. An alternative to pure procedural modeling is the combination of optimization with declarative or procedural descriptions. Multiple recent frameworks specifically target the modeling of facades and buildings~\cite{Bokeloh:2012:AMP,Lin:2011:SPR,Bao:2013:PFV,Ilcik:2015:LBP,Dang:2014:SAF}, and urban layouts~\cite{Vanegas:2012:IDU}. There are also multiple approaches that target more general procedural modeling~\cite{Talton:2011:MPM,Yeh:2013:STP,Ritchie:2015:CPM}.
+
+\changed{Several methods obtain a facade layout by segmenting existing facade images, and then either fitting a procedural model~\cite{Teboul:PAMI:2013}, or optimizing the segmentation to follow architectural principles~\cite{Mathias:IJCV:2016,Cohen:CVPR:2014}. This reconstruction is different from our \emph{generative} approach, which synthesizes novel detail layouts without reference images.}
+
+Another important avenue of recent work is the combination of machine learning and procedural modeling. One goal is inverse procedural modeling, where grammar rules and grammar parameters are learned from data. One example approach is Bayesian model merging~\cite{Stolcke:1994:IPG}, which was adopted by multiple authors for learning grammars~\cite{Talton:2012:LDP,Martinovic:2013:BGL}. While this approach shares some goals with our project, the learning techniques employed were not powerful enough to encode design knowledge and thus only very simple examples were presented.
+Recently, deep learning was used for shape and scene synthesis of architectural content. Nishida et al.~\shortcite{Nishida:2016:ISU:2897824.2925951} proposed an interactive framework to interpret sketches as the outer shell of 3D building models. More recently, Wang et al.~\shortcite{Wang:2018:DCP} used deep learning to predict furniture placement inside a room. Automatic detailing of mass models, which is the focus of our method, has not yet been attempted using a data-driven approach. 
+
+\paragraph*{Generative adverserial networks (GANs).}
+Supervised deep learning has played a crucial role in recent developments in several computer vision tasks, e.g., object recognition \cite{he2016deep,krizhevsky2012imagenet}, semantic segmentation \cite{long2015fully}, and activity recognition/detection \cite{escorcia2016daps, tran2015learning}. 
+In contrast, weakly supervised or unsupervised deep learning has been popular for image and texture synthesis tasks. 
+In this context, Generative Adversarial Networks (GANs) have emerged as a promising family of unsupervised learning techniques that have recently been used to model simple natural images (e.g., faces and flowers) \cite{GAN}. They can learn to emulate the training set,  enable sampling from that domain and use the  learned knowledge for useful applications. Since their introduction, many variations of GANs have been proposed to overcome some of the impediments they face (e.g., instability during training)\\ \cite{WGAN,BEGAN,LaplacianPyrmid,Bigan,inception-GANs2,catGAN,improvGANfeature,zhao2016energy}. Three versions of GANs are of particular interest for our work. First, the Pix2Pix framework using conditional GANs~\cite{pix2pix} is useful for image to image translation. The authors provide results for translating a facade label image into a textured facade image. Second, CycleGAN~\cite{cycleGAN} is useful to learn image-to-image translation tasks \textit{without} requiring a corresponding pair of images in the two styles. Third, BicycleGAN~\cite{zhu2017multimodal} is another extension of image to image translation that improves the variations that can be generated.
+
+Interestingly, GANs have proven useful in several core image processing and computer vision tasks, including image inpainting \cite{inpainting}, style transfer \cite{style-transfer}, super-resolution \cite{pix2pix,superresolution}, manifold traversing \cite{manifold-manipulation}, hand pose estimation \cite{hand-pose}, and face recognition \cite{face-recog}. However, the applications of GANs are not limited to the computer vision and image processing communities; adversarial models are being explored for graphics applications. Examples include street network synthesis \cite{StreetGAN}, volume rendering engines \cite{Berger:TVCG:2018}, and  adaptive city-scene generation \cite{sceneGAN}. In this paper, we adapt GANs to detail synthesis for detailing building mass models using exemplar images for style guidance.
+
+% {\bf Paper wish list.}
+% Procedural sketching SG 2016
+% progressive GANs
+% indoor modeling using deep learning - https://kwang-ether.github.io/pdf/deepsynth.pdf

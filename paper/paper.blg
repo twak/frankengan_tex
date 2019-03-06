@@ -1,0 +1,178 @@
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: paper.aux
+The style file: ACM-Reference-Format.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Database file #1: styleSynchronized.bib
+Database file #2: BibtexPeterWonkaMyPaper.bib
+Database file #3: gan.bib
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Name 1 in "Kai Wang, Manolis Savva, Angel X. Chang, and Daniel Ritchie" has a comma at the end for entry Wang:2018:DCP
+while executing---line 2724 of file ACM-Reference-Format.bst
+Name 1 in "Kai Wang, Manolis Savva, Angel X. Chang, and Daniel Ritchie" has a comma at the end for entry Wang:2018:DCP
+while executing---line 2724 of file ACM-Reference-Format.bst
+Name 1 in "Kai Wang, Manolis Savva, Angel X. Chang, and Daniel Ritchie" has a comma at the end for entry Wang:2018:DCP
+while executing---line 2724 of file ACM-Reference-Format.bst
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=20001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Name 1 in "Kai Wang, Manolis Savva, Angel X. Chang, and Daniel Ritchie" has a comma at the end for entry Wang:2018:DCP
+while executing---line 2785 of file ACM-Reference-Format.bst
+Name 1 in "Kai Wang, Manolis Savva, Angel X. Chang, and Daniel Ritchie" has a comma at the end for entry Wang:2018:DCP
+while executing---line 2785 of file ACM-Reference-Format.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Warning--no journal in WGAN
+Warning--no number and no volume in WGAN
+Warning--page numbers missing in both pages and numpages fields in WGAN
+Warning--no number and no volume in Berger:TVCG:2018
+Warning--no journal in BEGAN
+Warning--no number and no volume in BEGAN
+Warning--page numbers missing in both pages and numpages fields in BEGAN
+Warning--page numbers missing in both pages and numpages fields in Bokeloh:2012:AMP
+Warning--empty publisher in Cohen:CVPR:2014
+Warning--empty address in Cohen:CVPR:2014
+Warning--empty publisher in LaplacianPyrmid
+Warning--empty address in LaplacianPyrmid
+Warning--empty publisher in Donahue:2016:afl
+Warning--empty address in Donahue:2016:afl
+Warning--page numbers missing in both pages and numpages fields in Donahue:2016:afl
+Warning--empty publisher in Dumoulin:2016:ali
+Warning--empty address in Dumoulin:2016:ali
+Warning--page numbers missing in both pages and numpages fields in Dumoulin:2016:ali
+Warning--empty publisher in escorcia2016daps
+Warning--empty address in escorcia2016daps
+Warning--empty publisher in GAN
+Warning--empty address in GAN
+Warning--empty publisher in Bigan
+Warning--empty address in Bigan
+Warning--page numbers missing in both pages and numpages fields in Bigan
+Warning--empty booktitle in StreetGAN
+Warning--no number and no volume in StreetGAN
+Warning--page numbers missing in both pages and numpages fields in StreetGAN
+Warning--empty publisher in he2016deep
+Warning--empty address in he2016deep
+Warning--no number and no volume in pix2pix
+Warning--page numbers missing in both pages and numpages fields in pix2pix
+Warning--empty publisher in style-transfer
+Warning--empty address in style-transfer
+Warning--page numbers missing in both pages and numpages fields in style-transfer
+Name 1 in "Kai Wang, Manolis Savva, Angel X. Chang, and Daniel Ritchie" has a comma at the end for entry Wang:2018:DCP
+while executing---line 2883 of file ACM-Reference-Format.bst
+Name 1 in "Kai Wang, Manolis Savva, Angel X. Chang, and Daniel Ritchie" has a comma at the end for entry Wang:2018:DCP
+while executing---line 2883 of file ACM-Reference-Format.bst
+Name 1 in "Kai Wang, Manolis Savva, Angel X. Chang, and Daniel Ritchie" has a comma at the end for entry Wang:2018:DCP
+while executing---line 2883 of file ACM-Reference-Format.bst
+Warning--no number and no volume in Wang:2018:DCP
+Warning--page numbers missing in both pages and numpages fields in Wang:2018:DCP
+Warning--empty publisher in Karras:2018:PGG
+Warning--empty address in Karras:2018:PGG
+Warning--page numbers missing in both pages and numpages fields in Karras:2018:PGG
+Warning--articleno or eid field, but no numpages field, in Kelly:SIGA:2017
+Warning--page numbers missing in both pages and numpages fields in Kelly:SIGA:2017
+Warning--articleno or eid, but no pages or numpages field in Kelly:SIGA:2017
+Warning--empty publisher in vae
+Warning--empty address in vae
+Warning--page numbers missing in both pages and numpages fields in vae
+Warning--empty publisher in adam
+Warning--empty address in adam
+Warning--page numbers missing in both pages and numpages fields in adam
+Warning--empty publisher in krizhevsky2012imagenet
+Warning--empty address in krizhevsky2012imagenet
+Warning--empty publisher in vae_gan
+Warning--empty address in vae_gan
+Warning--page numbers missing in both pages and numpages fields in vae_gan
+Warning--empty publisher in superresolution
+Warning--empty address in superresolution
+Warning--page numbers missing in both pages and numpages fields in superresolution
+Warning--empty publisher in long2015fully
+Warning--empty address in long2015fully
+Warning--empty publisher in Martinovic:2013:BGL
+Warning--empty address in Martinovic:2013:BGL
+Warning--numpages field, but no articleno or eid field, in Mathias:IJCV:2016
+Warning--no number and no volume in Nishida:2016:ISU:2897824.2925951
+Warning--page numbers missing in both pages and numpages fields in Nishida:2016:ISU:2897824.2925951
+Warning--empty publisher in inception-GANs2
+Warning--empty address in inception-GANs2
+Warning--empty publisher in catGAN
+Warning--empty address in catGAN
+Warning--page numbers missing in both pages and numpages fields in catGAN
+Warning--empty publisher in Stolcke:1994:IPG
+Warning--empty address in Stolcke:1994:IPG
+Warning--empty publisher in Talton:2012:LDP
+Warning--empty address in Talton:2012:LDP
+Warning--page numbers missing in both pages and numpages fields in Teboul:PAMI:2013
+Warning--empty publisher in tran2015learning
+Warning--empty address in tran2015learning
+Warning--page numbers missing in both pages and numpages fields in tran2015learning
+Warning--empty publisher in face-recog
+Warning--empty address in face-recog
+Warning--page numbers missing in both pages and numpages fields in face-recog
+Warning--empty publisher in cmp_dataset
+Warning--page numbers missing in both pages and numpages fields in cmp_dataset
+Warning--no journal in sceneGAN
+Warning--no number and no volume in sceneGAN
+Warning--page numbers missing in both pages and numpages fields in sceneGAN
+Warning--empty publisher in hand-pose
+Warning--empty address in hand-pose
+Warning--page numbers missing in both pages and numpages fields in hand-pose
+Warning--empty publisher in improvGANfeature
+Warning--empty address in improvGANfeature
+Warning--page numbers missing in both pages and numpages fields in improvGANfeature
+Warning--no journal in inpainting
+Warning--no number and no volume in inpainting
+Warning--page numbers missing in both pages and numpages fields in inpainting
+Warning--page numbers missing in both pages and numpages fields in Yeh:2013:STP
+Warning--empty publisher in zhao2016energy
+Warning--empty address in zhao2016energy
+Warning--page numbers missing in both pages and numpages fields in zhao2016energy
+Warning--empty publisher in manifold-manipulation
+Warning--empty address in manifold-manipulation
+Warning--page numbers missing in both pages and numpages fields in manifold-manipulation
+Warning--no number and no volume in cycleGAN
+Warning--page numbers missing in both pages and numpages fields in cycleGAN
+Warning--empty publisher in zhu2017multimodal
+Warning--empty address in zhu2017multimodal
+Warning--page numbers missing in both pages and numpages fields in zhu2017multimodal
+You've used 55 entries,
+            5732 wiz_defined-function locations,
+            1676 strings with 25065 characters,
+and the built_in function-call counts, 67340 in all, are:
+= -- 7971
+> -- 2968
+< -- 0
++ -- 988
+- -- 964
+* -- 5174
+:= -- 6965
+add.period$ -- 260
+call.type$ -- 55
+change.case$ -- 447
+chr.to.int$ -- 54
+cite$ -- 161
+duplicate$ -- 5809
+empty$ -- 4092
+format.name$ -- 1179
+if$ -- 16190
+int.to.chr$ -- 3
+int.to.str$ -- 1
+missing$ -- 241
+newline$ -- 471
+num.names$ -- 439
+pop$ -- 2513
+preamble$ -- 1
+purify$ -- 937
+quote$ -- 0
+skip$ -- 1941
+stack$ -- 0
+substring$ -- 4353
+swap$ -- 505
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 1295
+warning$ -- 106
+while$ -- 320
+width$ -- 0
+write$ -- 937
+(There were 8 error messages)

@@ -1,0 +1,703 @@
+%%% -*-BibTeX-*-
+%%% Do NOT edit. File created by BibTeX with style
+%%% ACM-Reference-Format-Journals [18-Jan-2012].
+
+\begin{thebibliography}{55}
+
+%%% ====================================================================
+%%% NOTE TO THE USER: you can override these defaults by providing
+%%% customized versions of any of these macros before the \bibliography
+%%% command.  Each of them MUST provide its own final punctuation,
+%%% except for \shownote{}, \showDOI{}, and \showURL{}.  The latter two
+%%% do not use final punctuation, in order to avoid confusing it with
+%%% the Web address.
+%%%
+%%% To suppress output of a particular field, define its macro to expand
+%%% to an empty string, or better, \unskip, like this:
+%%%
+%%% \newcommand{\showDOI}[1]{\unskip}   % LaTeX syntax
+%%%
+%%% \def \showDOI #1{\unskip}           % plain TeX syntax
+%%%
+%%% ====================================================================
+
+\ifx \showCODEN    \undefined \def \showCODEN     #1{\unskip}     \fi
+\ifx \showDOI      \undefined \def \showDOI       #1{#1}\fi
+\ifx \showISBNx    \undefined \def \showISBNx     #1{\unskip}     \fi
+\ifx \showISBNxiii \undefined \def \showISBNxiii  #1{\unskip}     \fi
+\ifx \showISSN     \undefined \def \showISSN      #1{\unskip}     \fi
+\ifx \showLCCN     \undefined \def \showLCCN      #1{\unskip}     \fi
+\ifx \shownote     \undefined \def \shownote      #1{#1}          \fi
+\ifx \showarticletitle \undefined \def \showarticletitle #1{#1}   \fi
+\ifx \showURL      \undefined \def \showURL       {\relax}        \fi
+% The following commands are used for tagged output and should be
+% invisible to TeX
+\providecommand\bibfield[2]{#2}
+\providecommand\bibinfo[2]{#2}
+\providecommand\natexlab[1]{#1}
+\providecommand\showeprint[2][]{arXiv:#2}
+
+\bibitem[\protect\citeauthoryear{Arjovsky, Chintala, and Bottou}{Arjovsky
+  et~al\mbox{.}}{2017}]%
+        {WGAN}
+\bibfield{author}{\bibinfo{person}{Martin Arjovsky}, \bibinfo{person}{Soumith
+  Chintala}, {and} \bibinfo{person}{L{\'e}on Bottou}.}
+  \bibinfo{year}{2017}\natexlab{}.
+\newblock \showarticletitle{Wasserstein GAN}.
+\newblock  (\bibinfo{year}{2017}).
+\newblock
+\showeprint[arxiv]{1701.07875}
+
+
+\bibitem[\protect\citeauthoryear{Bao, Schwarz, and Wonka}{Bao
+  et~al\mbox{.}}{2013}]%
+        {Bao:2013:PFV}
+\bibfield{author}{\bibinfo{person}{Fan Bao}, \bibinfo{person}{Michael Schwarz},
+  {and} \bibinfo{person}{Peter Wonka}.} \bibinfo{year}{2013}\natexlab{}.
+\newblock \showarticletitle{Procedural Facade Variations from a Single Layout}.
+\newblock \bibinfo{journal}{\emph{ACM TOG}} \bibinfo{volume}{32},
+  \bibinfo{number}{1} (\bibinfo{year}{2013}), \bibinfo{pages}{8}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Berger, Li, and Levine}{Berger
+  et~al\mbox{.}}{2018}]%
+        {Berger:TVCG:2018}
+\bibfield{author}{\bibinfo{person}{M. Berger}, \bibinfo{person}{J. Li}, {and}
+  \bibinfo{person}{J.~A. Levine}.} \bibinfo{year}{2018}\natexlab{}.
+\newblock \showarticletitle{A Generative Model for Volume Rendering}.
+\newblock \bibinfo{journal}{\emph{{IEEE TVCG}}} (\bibinfo{year}{2018}),
+  \bibinfo{pages}{1--1}.
+\newblock
+\showISSN{1077-2626}
+
+
+\bibitem[\protect\citeauthoryear{Berthelot, Schumm, and Metz}{Berthelot
+  et~al\mbox{.}}{2017}]%
+        {BEGAN}
+\bibfield{author}{\bibinfo{person}{David Berthelot}, \bibinfo{person}{Tom
+  Schumm}, {and} \bibinfo{person}{Luke Metz}.} \bibinfo{year}{2017}\natexlab{}.
+\newblock \showarticletitle{{BEGAN:} Boundary Equilibrium Generative
+  Adversarial Networks}.
+\newblock  (\bibinfo{year}{2017}).
+\newblock
+\showeprint[arxiv]{1703.10717}
+
+
+\bibitem[\protect\citeauthoryear{Bokeloh, Wand, Seidel, and Koltun}{Bokeloh
+  et~al\mbox{.}}{2012}]%
+        {Bokeloh:2012:AMP}
+\bibfield{author}{\bibinfo{person}{Martin Bokeloh}, \bibinfo{person}{Michael
+  Wand}, \bibinfo{person}{Hans-Peter Seidel}, {and} \bibinfo{person}{Vladlen
+  Koltun}.} \bibinfo{year}{2012}\natexlab{}.
+\newblock \showarticletitle{An Algebraic Model for Parameterized Shape
+  Editing}.
+\newblock \bibinfo{journal}{\emph{ACM TOG}} \bibinfo{volume}{31},
+  \bibinfo{number}{4} (\bibinfo{year}{2012}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Cohen, Schwing, and Pollefeys}{Cohen
+  et~al\mbox{.}}{2014}]%
+        {Cohen:CVPR:2014}
+\bibfield{author}{\bibinfo{person}{A. Cohen}, \bibinfo{person}{A.~G. Schwing},
+  {and} \bibinfo{person}{M. Pollefeys}.} \bibinfo{year}{2014}\natexlab{}.
+\newblock \showarticletitle{Efficient Structured Parsing of Facades Using
+  Dynamic Programming}. In \bibinfo{booktitle}{\emph{{IEEE PAMI}}}.
+  \bibinfo{pages}{3206--3213}.
+\newblock
+\showISSN{1063-6919}
+
+
+\bibitem[\protect\citeauthoryear{Dang, Ceylan, Neubert, and Pauly}{Dang
+  et~al\mbox{.}}{2014}]%
+        {Dang:2014:SAF}
+\bibfield{author}{\bibinfo{person}{Minh Dang}, \bibinfo{person}{Duygu Ceylan},
+  \bibinfo{person}{Boris Neubert}, {and} \bibinfo{person}{Mark Pauly}.}
+  \bibinfo{year}{2014}\natexlab{}.
+\newblock \showarticletitle{{SAFE}: Structure-aware Facade Editing}.
+\newblock \bibinfo{journal}{\emph{CGF}} \bibinfo{volume}{33},
+  \bibinfo{number}{2} (\bibinfo{year}{2014}), \bibinfo{pages}{83--93}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Denton, Chintala, Szlam, and Fergus}{Denton
+  et~al\mbox{.}}{2015}]%
+        {LaplacianPyrmid}
+\bibfield{author}{\bibinfo{person}{Emily~L Denton}, \bibinfo{person}{Soumith
+  Chintala}, \bibinfo{person}{Arthur Szlam}, {and} \bibinfo{person}{Rob
+  Fergus}.} \bibinfo{year}{2015}\natexlab{}.
+\newblock \showarticletitle{Deep Generative Image Models using a Laplacian
+  Pyramid of Adversarial Networks}. In \bibinfo{booktitle}{\emph{NIPS}}.
+  \bibinfo{pages}{1486--1494}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Donahue, Kr\"ahenb\"uhl, and Darrell}{Donahue
+  et~al\mbox{.}}{2016}]%
+        {Donahue:2016:afl}
+\bibfield{author}{\bibinfo{person}{Jeff Donahue}, \bibinfo{person}{Philipp
+  Kr\"ahenb\"uhl}, {and} \bibinfo{person}{Trevor Darrell}.}
+  \bibinfo{year}{2016}\natexlab{}.
+\newblock \showarticletitle{Adversarial Feature Learning}. In
+  \bibinfo{booktitle}{\emph{ICLR}}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Dumoulin, Belghazi, Poole, Lamb, Arjovsky,
+  Mastropietro, and Courville}{Dumoulin et~al\mbox{.}}{2016}]%
+        {Dumoulin:2016:ali}
+\bibfield{author}{\bibinfo{person}{Vincent Dumoulin}, \bibinfo{person}{Ishmael
+  Belghazi}, \bibinfo{person}{Ben Poole}, \bibinfo{person}{Alex Lamb},
+  \bibinfo{person}{Martin Arjovsky}, \bibinfo{person}{Olivier Mastropietro},
+  {and} \bibinfo{person}{Aaron Courville}.} \bibinfo{year}{2016}\natexlab{}.
+\newblock \showarticletitle{Adversarially Learned Inference}. In
+  \bibinfo{booktitle}{\emph{ICLR}}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Escorcia, Heilbron, Niebles, and
+  Ghanem}{Escorcia et~al\mbox{.}}{2016}]%
+        {escorcia2016daps}
+\bibfield{author}{\bibinfo{person}{Victor Escorcia},
+  \bibinfo{person}{Fabian~Caba Heilbron}, \bibinfo{person}{Juan~Carlos
+  Niebles}, {and} \bibinfo{person}{Bernard Ghanem}.}
+  \bibinfo{year}{2016}\natexlab{}.
+\newblock \showarticletitle{Daps: Deep action proposals for action
+  understanding}. In \bibinfo{booktitle}{\emph{ECCV}}. Springer,
+  \bibinfo{pages}{768--784}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Goodfellow, Pouget-Abadie, Mirza, Xu,
+  Warde-Farley, Ozair, Courville, and Bengio}{Goodfellow et~al\mbox{.}}{2014}]%
+        {GAN}
+\bibfield{author}{\bibinfo{person}{Ian Goodfellow}, \bibinfo{person}{Jean
+  Pouget-Abadie}, \bibinfo{person}{Mehdi Mirza}, \bibinfo{person}{Bing Xu},
+  \bibinfo{person}{David Warde-Farley}, \bibinfo{person}{Sherjil Ozair},
+  \bibinfo{person}{Aaron Courville}, {and} \bibinfo{person}{Yoshua Bengio}.}
+  \bibinfo{year}{2014}\natexlab{}.
+\newblock \showarticletitle{Generative Adversarial Nets}.
+\newblock In \bibinfo{booktitle}{\emph{NIPS}}. \bibinfo{pages}{2672--2680}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Gurumurthy, Kiran~Sarvadevabhatla, and
+  Venkatesh~Babu}{Gurumurthy et~al\mbox{.}}{2017}]%
+        {Bigan}
+\bibfield{author}{\bibinfo{person}{Swaminathan Gurumurthy},
+  \bibinfo{person}{Ravi Kiran~Sarvadevabhatla}, {and} \bibinfo{person}{R.
+  Venkatesh~Babu}.} \bibinfo{year}{2017}\natexlab{}.
+\newblock \showarticletitle{DeLiGAN : Generative Adversarial Networks for
+  Diverse and Limited Data}. In \bibinfo{booktitle}{\emph{CVPR}}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Hartmann, Weinmann, Wessel, and
+  Klein}{Hartmann et~al\mbox{.}}{2017}]%
+        {StreetGAN}
+\bibfield{author}{\bibinfo{person}{Stefan Hartmann}, \bibinfo{person}{Michael
+  Weinmann}, \bibinfo{person}{Raoul Wessel}, {and} \bibinfo{person}{Reinhard
+  Klein}.} \bibinfo{year}{2017}\natexlab{}.
+\newblock \showarticletitle{StreetGAN: Towards Road Network Synthesis with
+  Generative Adversarial Networks}.
+\newblock \bibinfo{journal}{\emph{ICCV}}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{He, Zhang, Ren, and Sun}{He
+  et~al\mbox{.}}{2016}]%
+        {he2016deep}
+\bibfield{author}{\bibinfo{person}{Kaiming He}, \bibinfo{person}{Xiangyu
+  Zhang}, \bibinfo{person}{Shaoqing Ren}, {and} \bibinfo{person}{Jian Sun}.}
+  \bibinfo{year}{2016}\natexlab{}.
+\newblock \showarticletitle{Deep residual learning for image recognition}. In
+  \bibinfo{booktitle}{\emph{CVPR}}. \bibinfo{pages}{770--778}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Il{\v{c}}{\'{\i}}k, Musialski, Auzinger, and
+  Wimmer}{Il{\v{c}}{\'{\i}}k et~al\mbox{.}}{2015}]%
+        {Ilcik:2015:LBP}
+\bibfield{author}{\bibinfo{person}{Martin Il{\v{c}}{\'{\i}}k},
+  \bibinfo{person}{Przemyslaw Musialski}, \bibinfo{person}{Thomas Auzinger},
+  {and} \bibinfo{person}{Michael Wimmer}.} \bibinfo{year}{2015}\natexlab{}.
+\newblock \showarticletitle{Layer-Based Procedural Design of Fa{\c{c}}ades}.
+\newblock \bibinfo{journal}{\emph{CGF}} \bibinfo{volume}{34},
+  \bibinfo{number}{2} (\bibinfo{year}{2015}), \bibinfo{pages}{205--216}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Isola, Zhu, Zhou, and Efros}{Isola
+  et~al\mbox{.}}{2017}]%
+        {pix2pix}
+\bibfield{author}{\bibinfo{person}{Phillip Isola}, \bibinfo{person}{Jun-Yan
+  Zhu}, \bibinfo{person}{Tinghui Zhou}, {and} \bibinfo{person}{Alexei~A
+  Efros}.} \bibinfo{year}{2017}\natexlab{}.
+\newblock \showarticletitle{Image-to-Image Translation with Conditional
+  Adversarial Networks}.
+\newblock \bibinfo{journal}{\emph{CVPR}} (\bibinfo{year}{2017}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Johnson, Alahi, and fei Li}{Johnson
+  et~al\mbox{.}}{2016}]%
+        {style-transfer}
+\bibfield{author}{\bibinfo{person}{Justin Johnson}, \bibinfo{person}{Alexandre
+  Alahi}, {and} \bibinfo{person}{Fei fei Li}.} \bibinfo{year}{2016}\natexlab{}.
+\newblock \showarticletitle{Perceptual Losses for Real-Time Style Transfer and
+  Super-Resolution}. In \bibinfo{booktitle}{\emph{ECCV}}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Kai~Wang and Ritchie}{Kai~Wang and
+  Ritchie}{2018}]%
+        {Wang:2018:DCP}
+\bibfield{author}{\bibinfo{person}{Angel X.~Chang Kai~Wang, Manolis~Savva}
+  {and} \bibinfo{person}{Daniel Ritchie}.} \bibinfo{year}{2018}\natexlab{}.
+\newblock \showarticletitle{Deep Convolutional Priors for Indoor Scene
+  Synthesis}.
+\newblock \bibinfo{journal}{\emph{ACM TOG}} (\bibinfo{year}{2018}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Karras, Aila, Laine, and Lehtinen}{Karras
+  et~al\mbox{.}}{2018}]%
+        {Karras:2018:PGG}
+\bibfield{author}{\bibinfo{person}{Tero Karras}, \bibinfo{person}{Timo Aila},
+  \bibinfo{person}{Samuli Laine}, {and} \bibinfo{person}{Jaakko Lehtinen}.}
+  \bibinfo{year}{2018}\natexlab{}.
+\newblock \showarticletitle{Progressive Growing of {GAN}s for Improved Quality,
+  Stability, and Variation}. In \bibinfo{booktitle}{\emph{ICLR}}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Kelly, Femiani, Wonka, and Mitra}{Kelly
+  et~al\mbox{.}}{2017}]%
+        {Kelly:SIGA:2017}
+\bibfield{author}{\bibinfo{person}{Tom Kelly}, \bibinfo{person}{John Femiani},
+  \bibinfo{person}{Peter Wonka}, {and} \bibinfo{person}{Niloy~J. Mitra}.}
+  \bibinfo{year}{2017}\natexlab{}.
+\newblock \showarticletitle{BigSUR: Large-scale Structured Urban
+  Reconstruction}.
+\newblock \bibinfo{journal}{\emph{{ACM SIGGRAPH Asia}}} \bibinfo{volume}{36},
+  \bibinfo{number}{6}, Article \bibinfo{articleno}{204} (\bibinfo{year}{2017}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Kingma and Welling}{Kingma and
+  Welling}{2014}]%
+        {vae}
+\bibfield{author}{\bibinfo{person}{D.P. Kingma} {and} \bibinfo{person}{M.
+  Welling}.} \bibinfo{year}{2014}\natexlab{}.
+\newblock \showarticletitle{Auto-Encoding Variational Bayes}. In
+  \bibinfo{booktitle}{\emph{ICLR}}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Kingma and Ba}{Kingma and Ba}{2015}]%
+        {adam}
+\bibfield{author}{\bibinfo{person}{Diederik~P. Kingma} {and}
+  \bibinfo{person}{Jimmy Ba}.} \bibinfo{year}{2015}\natexlab{}.
+\newblock \showarticletitle{Adam: {A} Method for Stochastic Optimization}. In
+  \bibinfo{booktitle}{\emph{ICLR}}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Krizhevsky, Sutskever, and Hinton}{Krizhevsky
+  et~al\mbox{.}}{2012}]%
+        {krizhevsky2012imagenet}
+\bibfield{author}{\bibinfo{person}{Alex Krizhevsky}, \bibinfo{person}{Ilya
+  Sutskever}, {and} \bibinfo{person}{Geoffrey~E Hinton}.}
+  \bibinfo{year}{2012}\natexlab{}.
+\newblock \showarticletitle{Imagenet classification with deep convolutional
+  neural networks}. In \bibinfo{booktitle}{\emph{NIPS}}.
+  \bibinfo{pages}{1097--1105}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Larsen, S{\o}nderby, Larochelle, and
+  Winther}{Larsen et~al\mbox{.}}{2016}]%
+        {vae_gan}
+\bibfield{author}{\bibinfo{person}{Anders Boesen~Lindbo Larsen},
+  \bibinfo{person}{S{\o}ren~Kaae S{\o}nderby}, \bibinfo{person}{Hugo
+  Larochelle}, {and} \bibinfo{person}{Ole Winther}.}
+  \bibinfo{year}{2016}\natexlab{}.
+\newblock \showarticletitle{Autoencoding beyond pixels using a learned
+  similarity metric}. In \bibinfo{booktitle}{\emph{ICML}},
+  Vol.~\bibinfo{volume}{48}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Ledig, Theis, Huszar, Caballero, Cunningham,
+  Acosta, Aitken, Tejani, Totz, Wang, and Shi}{Ledig et~al\mbox{.}}{2017}]%
+        {superresolution}
+\bibfield{author}{\bibinfo{person}{Christian Ledig}, \bibinfo{person}{Lucas
+  Theis}, \bibinfo{person}{Ferenc Huszar}, \bibinfo{person}{Jose Caballero},
+  \bibinfo{person}{Andrew Cunningham}, \bibinfo{person}{Alejandro Acosta},
+  \bibinfo{person}{Andrew Aitken}, \bibinfo{person}{Alykhan Tejani},
+  \bibinfo{person}{Johannes Totz}, \bibinfo{person}{Zehan Wang}, {and}
+  \bibinfo{person}{Wenzhe Shi}.} \bibinfo{year}{2017}\natexlab{}.
+\newblock \showarticletitle{Photo-Realistic Single Image Super-Resolution Using
+  a Generative Adversarial Network}. In \bibinfo{booktitle}{\emph{CVPR}}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Lin, Cohen-Or, Zhang, Liang, Sharf, Deussen,
+  and Chen}{Lin et~al\mbox{.}}{2011}]%
+        {Lin:2011:SPR}
+\bibfield{author}{\bibinfo{person}{Jinjie Lin}, \bibinfo{person}{Daniel
+  Cohen-Or}, \bibinfo{person}{Hao Zhang}, \bibinfo{person}{Cheng Liang},
+  \bibinfo{person}{Andrei Sharf}, \bibinfo{person}{Oliver Deussen}, {and}
+  \bibinfo{person}{Baoquan Chen}.} \bibinfo{year}{2011}\natexlab{}.
+\newblock \showarticletitle{Structure-Preserving Retargeting of Irregular {3D}
+  Architecture}.
+\newblock \bibinfo{journal}{\emph{ACM TOG}} \bibinfo{volume}{30},
+  \bibinfo{number}{6} (\bibinfo{year}{2011}), \bibinfo{pages}{183:1--183:10}.
+\newblock
+\urldef\tempurl%
+\url{https://doi.org/10.1145/2070781.2024217}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Long, Shelhamer, and Darrell}{Long
+  et~al\mbox{.}}{2015}]%
+        {long2015fully}
+\bibfield{author}{\bibinfo{person}{Jonathan Long}, \bibinfo{person}{Evan
+  Shelhamer}, {and} \bibinfo{person}{Trevor Darrell}.}
+  \bibinfo{year}{2015}\natexlab{}.
+\newblock \showarticletitle{Fully convolutional networks for semantic
+  segmentation}. In \bibinfo{booktitle}{\emph{CVPR}}.
+  \bibinfo{pages}{3431--3440}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Martinovic and Van~Gool}{Martinovic and
+  Van~Gool}{2013}]%
+        {Martinovic:2013:BGL}
+\bibfield{author}{\bibinfo{person}{Andjelo Martinovic} {and}
+  \bibinfo{person}{Luc Van~Gool}.} \bibinfo{year}{2013}\natexlab{}.
+\newblock \showarticletitle{{Bayesian} Grammar Learning for Inverse Procedural
+  Modeling}. In \bibinfo{booktitle}{\emph{CVPR}}. \bibinfo{pages}{201--208}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Mathias, Martinovi\'{c}, and Gool}{Mathias
+  et~al\mbox{.}}{2016}]%
+        {Mathias:IJCV:2016}
+\bibfield{author}{\bibinfo{person}{Markus Mathias}, \bibinfo{person}{Andelo
+  Martinovi\'{c}}, {and} \bibinfo{person}{Luc Gool}.}
+  \bibinfo{year}{2016}\natexlab{}.
+\newblock \showarticletitle{ATLAS: A Three-Layered Approach to Facade Parsing}.
+\newblock \bibinfo{journal}{\emph{{IJCV}}} \bibinfo{volume}{118},
+  \bibinfo{number}{1} (\bibinfo{date}{May} \bibinfo{year}{2016}),
+  \bibinfo{pages}{22--48}.
+\newblock
+\showISSN{0920-5691}
+
+
+\bibitem[\protect\citeauthoryear{Mueller, Wonka, Haegler, Ulmer, and
+  Van~Gool}{Mueller et~al\mbox{.}}{2006}]%
+        {Mueller:2006:PMB}
+\bibfield{author}{\bibinfo{person}{Pascal Mueller}, \bibinfo{person}{Peter
+  Wonka}, \bibinfo{person}{Simon Haegler}, \bibinfo{person}{Andreas Ulmer},
+  {and} \bibinfo{person}{Luc Van~Gool}.} \bibinfo{year}{2006}\natexlab{}.
+\newblock \showarticletitle{Procedural Modeling of Buildings}.
+\newblock \bibinfo{journal}{\emph{ACM TOG}} \bibinfo{volume}{25},
+  \bibinfo{number}{3} (\bibinfo{year}{2006}), \bibinfo{pages}{614--623}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Nishida, Garcia-Dorado, Aliaga, Benes, and
+  Bousseau}{Nishida et~al\mbox{.}}{2016}]%
+        {Nishida:2016:ISU:2897824.2925951}
+\bibfield{author}{\bibinfo{person}{Gen Nishida}, \bibinfo{person}{Ignacio
+  Garcia-Dorado}, \bibinfo{person}{Daniel~G. Aliaga}, \bibinfo{person}{Bedrich
+  Benes}, {and} \bibinfo{person}{Adrien Bousseau}.}
+  \bibinfo{year}{2016}\natexlab{}.
+\newblock \showarticletitle{Interactive Sketching of Urban Procedural Models}.
+\newblock \bibinfo{journal}{\emph{ACM TOG}} (\bibinfo{year}{2016}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Peng, Yang, Bao, Fink, Yan, Wonka, and
+  Mitra}{Peng et~al\mbox{.}}{2016}]%
+        {Peng:2016:CND}
+\bibfield{author}{\bibinfo{person}{Chi-Han Peng}, \bibinfo{person}{Yong-Liang
+  Yang}, \bibinfo{person}{Fan Bao}, \bibinfo{person}{Daniel Fink},
+  \bibinfo{person}{Dong-Ming Yan}, \bibinfo{person}{Peter Wonka}, {and}
+  \bibinfo{person}{Niloy~J Mitra}.} \bibinfo{year}{2016}\natexlab{}.
+\newblock \showarticletitle{Computational Network Design from Functional
+  Specifications}.
+\newblock \bibinfo{journal}{\emph{ACM TOG}} \bibinfo{volume}{35},
+  \bibinfo{number}{4} (\bibinfo{year}{2016}), \bibinfo{pages}{131}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Ritchie, Mildenhall, Goodman, and
+  Hanrahan}{Ritchie et~al\mbox{.}}{2015}]%
+        {Ritchie:2015:CPM}
+\bibfield{author}{\bibinfo{person}{Daniel Ritchie}, \bibinfo{person}{Ben
+  Mildenhall}, \bibinfo{person}{Noah~D. Goodman}, {and} \bibinfo{person}{Pat
+  Hanrahan}.} \bibinfo{year}{2015}\natexlab{}.
+\newblock \showarticletitle{Controlling Procedural Modeling Programs with
+  Stochastically-Ordered Sequential {Monte} {Carlo}}.
+\newblock \bibinfo{journal}{\emph{ACM TOG}} \bibinfo{volume}{34},
+  \bibinfo{number}{4} (\bibinfo{year}{2015}), \bibinfo{pages}{105:1--105:11}.
+\newblock
+\urldef\tempurl%
+\url{https://doi.org/10.1145/2766895}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Salimans, Goodfellow, Zaremba, Cheung,
+  Radford, Chen, and Chen}{Salimans et~al\mbox{.}}{2016}]%
+        {inception-GANs2}
+\bibfield{author}{\bibinfo{person}{Tim Salimans}, \bibinfo{person}{Ian
+  Goodfellow}, \bibinfo{person}{Wojciech Zaremba}, \bibinfo{person}{Vicki
+  Cheung}, \bibinfo{person}{Alec Radford}, \bibinfo{person}{Xi Chen}, {and}
+  \bibinfo{person}{Xi Chen}.} \bibinfo{year}{2016}\natexlab{}.
+\newblock \showarticletitle{Improved Techniques for Training GANs}.
+\newblock In \bibinfo{booktitle}{\emph{NIPS}}. \bibinfo{pages}{2234--2242}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Schwarz and M{\"u}ller}{Schwarz and
+  M{\"u}ller}{2015}]%
+        {Schwarz:2015:APM}
+\bibfield{author}{\bibinfo{person}{Michael Schwarz} {and}
+  \bibinfo{person}{Pascal M{\"u}ller}.} \bibinfo{year}{2015}\natexlab{}.
+\newblock \showarticletitle{Advanced Procedural Modeling of Architecture}.
+\newblock \bibinfo{journal}{\emph{ACM TOG}} \bibinfo{volume}{34},
+  \bibinfo{number}{4} (\bibinfo{year}{2015}), \bibinfo{pages}{107:1--107:12}.
+\newblock
+\urldef\tempurl%
+\url{https://doi.org/10.1145/2766956}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Springenberg}{Springenberg}{2016}]%
+        {catGAN}
+\bibfield{author}{\bibinfo{person}{Jost~T. Springenberg}.}
+  \bibinfo{year}{2016}\natexlab{}.
+\newblock \showarticletitle{Unsupervised and Semi-supervised Learning with
+  Categorical Generative Adversarial Network}. In
+  \bibinfo{booktitle}{\emph{ICLR}}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Stolcke and Omohundro}{Stolcke and
+  Omohundro}{1994}]%
+        {Stolcke:1994:IPG}
+\bibfield{author}{\bibinfo{person}{Andreas Stolcke} {and}
+  \bibinfo{person}{Stephen Omohundro}.} \bibinfo{year}{1994}\natexlab{}.
+\newblock \showarticletitle{Inducing Probabilistic Grammars by {Bayesian} Model
+  Merging}. In \bibinfo{booktitle}{\emph{Proceedings of ICGI-94}}.
+  \bibinfo{pages}{106--118}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Talton, Lou, Lesser, Duke, M{\v{e}}ch, and
+  Koltun}{Talton et~al\mbox{.}}{2011}]%
+        {Talton:2011:MPM}
+\bibfield{author}{\bibinfo{person}{Jerry~O. Talton}, \bibinfo{person}{Yu Lou},
+  \bibinfo{person}{Steve Lesser}, \bibinfo{person}{Jared Duke},
+  \bibinfo{person}{Radom{\'{\i}}r M{\v{e}}ch}, {and} \bibinfo{person}{Vladlen
+  Koltun}.} \bibinfo{year}{2011}\natexlab{}.
+\newblock \showarticletitle{Metropolis Procedural Modeling}.
+\newblock \bibinfo{journal}{\emph{ACM TOG}} \bibinfo{volume}{30},
+  \bibinfo{number}{2} (\bibinfo{year}{2011}), \bibinfo{pages}{11:1--11:14}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Talton, Yang, Kumar, Lim, Goodman, and
+  M{\v{e}}ch}{Talton et~al\mbox{.}}{2012}]%
+        {Talton:2012:LDP}
+\bibfield{author}{\bibinfo{person}{Jerry~O. Talton}, \bibinfo{person}{Lingfeng
+  Yang}, \bibinfo{person}{Ranjitha Kumar}, \bibinfo{person}{Maxine Lim},
+  \bibinfo{person}{Noah~D. Goodman}, {and} \bibinfo{person}{Radom{\'{\i}}r
+  M{\v{e}}ch}.} \bibinfo{year}{2012}\natexlab{}.
+\newblock \showarticletitle{Learning Design Patterns with {Bayesian} Grammar
+  Induction}. In \bibinfo{booktitle}{\emph{Proceedings of UIST '12}}.
+  \bibinfo{pages}{63--74}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Teboul, Kokkinos, Simon, Koutsourakis, and
+  Paragios}{Teboul et~al\mbox{.}}{2013}]%
+        {Teboul:PAMI:2013}
+\bibfield{author}{\bibinfo{person}{O. Teboul}, \bibinfo{person}{I. Kokkinos},
+  \bibinfo{person}{L. Simon}, \bibinfo{person}{P. Koutsourakis}, {and}
+  \bibinfo{person}{N. Paragios}.} \bibinfo{year}{2013}\natexlab{}.
+\newblock \showarticletitle{Parsing Facades with Shape Grammars and
+  Reinforcement Learning}.
+\newblock \bibinfo{journal}{\emph{{IEEE PAMI}}} \bibinfo{volume}{35},
+  \bibinfo{number}{7} (\bibinfo{date}{July} \bibinfo{year}{2013}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Tran, Bourdev, Fergus, Torresani, and
+  Paluri}{Tran et~al\mbox{.}}{2015}]%
+        {tran2015learning}
+\bibfield{author}{\bibinfo{person}{Du Tran}, \bibinfo{person}{Lubomir Bourdev},
+  \bibinfo{person}{Rob Fergus}, \bibinfo{person}{Lorenzo Torresani}, {and}
+  \bibinfo{person}{Manohar Paluri}.} \bibinfo{year}{2015}\natexlab{}.
+\newblock \showarticletitle{Learning spatiotemporal features with 3d
+  convolutional networks}. In \bibinfo{booktitle}{\emph{ICCV}}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Tran, Yin, and Liu}{Tran
+  et~al\mbox{.}}{2017}]%
+        {face-recog}
+\bibfield{author}{\bibinfo{person}{Luan Tran}, \bibinfo{person}{Xi Yin}, {and}
+  \bibinfo{person}{Xiaoming Liu}.} \bibinfo{year}{2017}\natexlab{}.
+\newblock \showarticletitle{Disentangled Representation Learning GAN for
+  Pose-Invariant Face Recognition}. In \bibinfo{booktitle}{\emph{CVPR}}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Tyle{\v c}ek and {\v S}{\' a}ra}{Tyle{\v c}ek
+  and {\v S}{\' a}ra}{2013}]%
+        {cmp_dataset}
+\bibfield{author}{\bibinfo{person}{Radim Tyle{\v c}ek} {and}
+  \bibinfo{person}{Radim {\v S}{\' a}ra}.} \bibinfo{year}{2013}\natexlab{}.
+\newblock \showarticletitle{Spatial Pattern Templates for Recognition of
+  Objects with Regular Structure}. In \bibinfo{booktitle}{\emph{Proc. GCPR}}.
+  \bibinfo{address}{Saarbrucken, Germany}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Vanegas, Garcia-Dorado, Aliaga, Benes, and
+  Waddell}{Vanegas et~al\mbox{.}}{2012}]%
+        {Vanegas:2012:IDU}
+\bibfield{author}{\bibinfo{person}{Carlos~A. Vanegas}, \bibinfo{person}{Ignacio
+  Garcia-Dorado}, \bibinfo{person}{Daniel~G. Aliaga}, \bibinfo{person}{Bedrich
+  Benes}, {and} \bibinfo{person}{Paul Waddell}.}
+  \bibinfo{year}{2012}\natexlab{}.
+\newblock \showarticletitle{Inverse Design of Urban Procedural Models}.
+\newblock \bibinfo{journal}{\emph{ACM TOG}} \bibinfo{volume}{31},
+  \bibinfo{number}{6} (\bibinfo{year}{2012}), \bibinfo{pages}{168:1--168:11}.
+\newblock
+\urldef\tempurl%
+\url{https://doi.org/10.1145/2366145.2366187}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Veeravasarapu, Rothkopf, and
+  Ramesh}{Veeravasarapu et~al\mbox{.}}{2017}]%
+        {sceneGAN}
+\bibfield{author}{\bibinfo{person}{V.~S.~R. Veeravasarapu},
+  \bibinfo{person}{Constantin~A. Rothkopf}, {and} \bibinfo{person}{Visvanathan
+  Ramesh}.} \bibinfo{year}{2017}\natexlab{}.
+\newblock \showarticletitle{Adversarially Tuned Scene Generation}.
+\newblock  (\bibinfo{year}{2017}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Wan, Probst, Van~Gool, and Yao}{Wan
+  et~al\mbox{.}}{2017}]%
+        {hand-pose}
+\bibfield{author}{\bibinfo{person}{Chengde Wan}, \bibinfo{person}{Thomas
+  Probst}, \bibinfo{person}{Luc Van~Gool}, {and} \bibinfo{person}{Angela Yao}.}
+  \bibinfo{year}{2017}\natexlab{}.
+\newblock \showarticletitle{Crossing Nets: Combining GANs and VAEs With a
+  Shared Latent Space for Hand Pose Estimation}. In
+  \bibinfo{booktitle}{\emph{CVPR}}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Warde-Farley and Bengio}{Warde-Farley and
+  Bengio}{2017}]%
+        {improvGANfeature}
+\bibfield{author}{\bibinfo{person}{David Warde-Farley} {and}
+  \bibinfo{person}{Yoshua Bengio}.} \bibinfo{year}{2017}\natexlab{}.
+\newblock \showarticletitle{Improving Generative Adverarial Networks with
+  Denoising Feature Matching}. In \bibinfo{booktitle}{\emph{CVPR}}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Wonka, Wimmer, Sillion, and Ribarsky}{Wonka
+  et~al\mbox{.}}{2003}]%
+        {Wonka:2003:IA}
+\bibfield{author}{\bibinfo{person}{Peter Wonka}, \bibinfo{person}{Michael
+  Wimmer}, \bibinfo{person}{Fran{\c{c}}ois Sillion}, {and}
+  \bibinfo{person}{William Ribarsky}.} \bibinfo{year}{2003}\natexlab{}.
+\newblock \showarticletitle{Instant Architecture}.
+\newblock \bibinfo{journal}{\emph{ACM TOG}} \bibinfo{volume}{22},
+  \bibinfo{number}{3} (\bibinfo{year}{2003}), \bibinfo{pages}{669--677}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Yeh, Chen, Lim, Hasegawa{-}Johnson, and
+  Do}{Yeh et~al\mbox{.}}{2016}]%
+        {inpainting}
+\bibfield{author}{\bibinfo{person}{Raymond Yeh}, \bibinfo{person}{Chen Chen},
+  \bibinfo{person}{Teck{-}Yian Lim}, \bibinfo{person}{Mark Hasegawa{-}Johnson},
+  {and} \bibinfo{person}{Minh~N. Do}.} \bibinfo{year}{2016}\natexlab{}.
+\newblock \showarticletitle{Semantic Image Inpainting with Perceptual and
+  Contextual Losses}.
+\newblock  (\bibinfo{year}{2016}).
+\newblock
+\showeprint[arxiv]{1607.07539}
+
+
+\bibitem[\protect\citeauthoryear{Yeh, Breeden, Yang, Fisher, and Hanrahan}{Yeh
+  et~al\mbox{.}}{2013}]%
+        {Yeh:2013:STP}
+\bibfield{author}{\bibinfo{person}{Yi-Ting Yeh}, \bibinfo{person}{Katherine
+  Breeden}, \bibinfo{person}{Lingfeng Yang}, \bibinfo{person}{Matthew Fisher},
+  {and} \bibinfo{person}{Pat Hanrahan}.} \bibinfo{year}{2013}\natexlab{}.
+\newblock \showarticletitle{Synthesis of Tiled Patterns using Factor Graphs}.
+\newblock \bibinfo{journal}{\emph{ACM TOG}} \bibinfo{volume}{32},
+  \bibinfo{number}{1} (\bibinfo{year}{2013}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Zhao, Mathieu, and LeCun}{Zhao
+  et~al\mbox{.}}{2017}]%
+        {zhao2016energy}
+\bibfield{author}{\bibinfo{person}{Junbo Zhao}, \bibinfo{person}{Michael
+  Mathieu}, {and} \bibinfo{person}{Yann LeCun}.}
+  \bibinfo{year}{2017}\natexlab{}.
+\newblock \showarticletitle{Energy-based generative adversarial network}. In
+  \bibinfo{booktitle}{\emph{ICLR}}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Zhu, Kr{\"a}henb{\"u}hl, Shechtman, and
+  Efros}{Zhu et~al\mbox{.}}{2016}]%
+        {manifold-manipulation}
+\bibfield{author}{\bibinfo{person}{Jun-Yan Zhu}, \bibinfo{person}{Philipp
+  Kr{\"a}henb{\"u}hl}, \bibinfo{person}{Eli Shechtman}, {and}
+  \bibinfo{person}{Alexei~A. Efros}.} \bibinfo{year}{2016}\natexlab{}.
+\newblock \showarticletitle{Generative Visual Manipulation on the Natural Image
+  Manifold}. In \bibinfo{booktitle}{\emph{ECCV}}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Zhu, Park, Isola, and Efros}{Zhu
+  et~al\mbox{.}}{2017a}]%
+        {cycleGAN}
+\bibfield{author}{\bibinfo{person}{Jun-Yan Zhu}, \bibinfo{person}{Taesung
+  Park}, \bibinfo{person}{Phillip Isola}, {and} \bibinfo{person}{Alexei~A
+  Efros}.} \bibinfo{year}{2017}\natexlab{a}.
+\newblock \showarticletitle{Unpaired Image-to-Image Translation using
+  Cycle-Consistent Adversarial Networks}.
+\newblock \bibinfo{journal}{\emph{ICCV}} (\bibinfo{year}{2017}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Zhu, Zhang, Pathak, Darrell, Efros, Wang, and
+  Shechtman}{Zhu et~al\mbox{.}}{2017b}]%
+        {zhu2017multimodal}
+\bibfield{author}{\bibinfo{person}{Jun-Yan Zhu}, \bibinfo{person}{Richard
+  Zhang}, \bibinfo{person}{Deepak Pathak}, \bibinfo{person}{Trevor Darrell},
+  \bibinfo{person}{Alexei~A Efros}, \bibinfo{person}{Oliver Wang}, {and}
+  \bibinfo{person}{Eli Shechtman}.} \bibinfo{year}{2017}\natexlab{b}.
+\newblock \showarticletitle{Toward Multimodal Image-to-Image Translation}. In
+  \bibinfo{booktitle}{\emph{NIPS}}.
+\newblock
+
+
+\end{thebibliography}
